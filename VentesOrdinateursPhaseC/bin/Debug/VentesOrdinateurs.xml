@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VentesOrdinateurs</name>
+    </assembly>
+    <members>
+        <member name="F:VentesOrdinateurs.VentesOrdinateursAboutBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursAboutBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursAboutBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:VentesOrdinateurs.VentesOrdinateursForm">
+            <summary>
+            Saisie d'une transaction
+            </summary>
+            <remarks>Tous droit réservés: AppCreat Inc.2025</remarks>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursForm.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:VentesOrdinateurs.VentesOrdinateursForm.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursForm.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursForm.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:VentesOrdinateurs.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="T:VentesOrdinateurs.VentesOrdinateursGeneraleClass">
+            <summary>
+            Classe générale dans la couche de presentation
+            </summary>
+            <remarks>Projet: VentesOrdinateurs</remarks>
+        </member>
+        <member name="T:VentesOrdinateurs.VentesOrdinateursGeneraleClass.codeErreurs">
+            <summary>
+            Enumeration pour les messages d'erreurs
+            </summary>
+        </member>
+        <member name="M:VentesOrdinateurs.VentesOrdinateursGeneraleClass.InitMessagesErreurs">
+            <summary>
+            Initialiser les messages d'erreurs
+            </summary>
+        </member>
+        <member name="T:VentesOrdinateurs.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.aboutBox">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.logoDroite">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.logoGauche">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.ordi_desktop">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:VentesOrdinateurs.Properties.Resources.saveHS">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
