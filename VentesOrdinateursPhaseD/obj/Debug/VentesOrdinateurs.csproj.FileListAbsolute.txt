@@ -1,0 +1,35 @@
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\VentesOrdinateurs.exe.config
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\VentesOrdinateurs.xml
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\VentesOrdinateurs.exe
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\VentesOrdinateurs.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\Transaction.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\Types.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\Transaction.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\bin\Debug\Types.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.csproj.AssemblyReference.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.Properties.Resources.resources
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.VentesOrdinateursAboutBox.resources
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.VentesOrdinateursForm.resources
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.csproj.GenerateResource.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.csproj.CoreCompileInputs.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.csproj.CopyComplete
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.exe
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\obj\Debug\VentesOrdinateurs.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\VentesOrdinateurs.exe.config
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\VentesOrdinateurs.xml
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\VentesOrdinateurs.exe
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\VentesOrdinateurs.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\Transaction.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\Types.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\Transaction.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\bin\Debug\Types.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.csproj.AssemblyReference.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.csproj.SuggestedBindingRedirects.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.Properties.Resources.resources
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.VentesOrdinateursAboutBox.resources
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.VentesOrdinateursForm.resources
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.csproj.GenerateResource.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.csproj.CoreCompileInputs.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.csproj.CopyComplete
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.exe
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\obj\Debug\VentesOrdinateurs.pdb
