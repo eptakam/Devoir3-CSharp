@@ -4,3 +4,9 @@ D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Types\bin\Debug\Types.pdb
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Types\obj\Debug\Types.dll
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Types\obj\Debug\Types.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\bin\Debug\Types.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\bin\Debug\Types.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\obj\Debug\Types.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseB\Types\obj\Debug\Types.pdb

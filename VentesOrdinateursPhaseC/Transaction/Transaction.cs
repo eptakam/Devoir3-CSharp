@@ -32,12 +32,23 @@ namespace TransactionNS
     /// <remarks>Tous droits réservés: App Creat Inc. 2025</remarks>
     public class Transaction
     {
+<<<<<<< HEAD
         #region Déclaration des tableaux et variables privées
+=======
+        #region Declaration des tableaux
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
         private string[] tMarqueStr;
         private string[] tCaracteristiqueStr;
         private Decimal[,] tPrixDecimal;
 
+<<<<<<< HEAD
+=======
+        #endregion
+
+        #region Declaration des variables privees
+
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         private int idInt;
         private string nomStr;
         private string prenomStr;
@@ -78,11 +89,16 @@ namespace TransactionNS
 
         #endregion
 
+<<<<<<< HEAD
         #region Constructeurs
 
         /// <summary>
         /// Constructeur par défaut
         /// </summary>
+=======
+        #region Constructeur
+
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         public Transaction()
         {
             InitMarques();
@@ -93,6 +109,7 @@ namespace TransactionNS
         /// <summary>									
         /// Constructeur avec paramètres : Information concernant les transactions									
         /// </summary>									
+<<<<<<< HEAD
         /// <param name="nomPrinc">Nom du client</param>									
         /// <param name="prenomPrinc">Prénom du client</param>									
         /// <param name="adressePrinc">Adresse du client</param>									
@@ -120,13 +137,46 @@ namespace TransactionNS
             this.Marque = marquePrinc;
             this.Caracteristique = caracteristiquePrinc;
             this.Prix = prixPrinc;
+=======
+        /// <param name="nomDestinataire">Nom du client</param>									
+        /// <param name="prenomDestinataire">Prénom du client</param>									
+        /// <param name="adresseDestinataire">Adresse du client</param>									
+        /// <param name="codePostalDestinataire">Code postal du client</param>									
+        /// <param name="telephoneDestinataire">Téléphone du client</param>									
+        /// <param name="typeDestinataire">Type d'ordinateur</param>									
+        /// <param name="modeleDestinataire">Modèle d'ordinateur</param>									
+        /// <param name="dateLivraisonDestinataire">Date de livraison</param>									
+        /// <param name="marqueDestinataire">Marque d'ordinateur</param>									
+        /// <param name="caracteristiqueDestinataire">Caracteristique d'ordinateur</param>									
+        /// <param name="prixDestinataire">Prix d'ordinateur</param>									
+        public Transaction(string nomDestinataire, string prenomDestinataire, string adresseDestinataire,
+        string codePostalDestinataire, string telephoneDestinataire, string typeDestinataire,
+        string modeleDestinataire, DateTime dateLivraisonDestinataire, string marqueDestinataire,
+        string caracteristiqueDestinataire, decimal prixDestinataire) : this()
+        {
+            this.Nom = nomDestinataire;
+            this.Prenom = prenomDestinataire;
+            this.Adresse = adresseDestinataire;
+            this.CodePostal = codePostalDestinataire;
+            this.Telephone = telephoneDestinataire;
+            this.Type = typeDestinataire;
+            this.Modele = modeleDestinataire;
+            this.DateLivraison = dateLivraisonDestinataire;
+            this.Marque = marqueDestinataire;
+            this.Caracteristique = caracteristiqueDestinataire;
+            this.Prix = prixDestinataire;
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         }
 
 
 
         #endregion
 
+<<<<<<< HEAD
         #region Marques d'ordinateurs
+=======
+        #region Marques de ordinateurs
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
         public string[] GetMarques()
         {
@@ -192,12 +242,21 @@ namespace TransactionNS
 
         #endregion
 
+<<<<<<< HEAD
         #region Propriétés 
 
         /// <summary>
         /// Numero unique de la transaction
         /// </summary>
         /// <remarks>Générer automatiquement lors de l'enregistrement de la transaction</remarks>
+=======
+        #region Proprietes publiques: Get et set
+
+        /// <summary>
+        /// Le numero unique de la transaction
+        /// </summary>
+        /// <remarks>Genere automatiquement lors de l'enregistrement de la transaction</remarks>
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         public int Id
         {
             get
@@ -207,7 +266,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Nom du client
+=======
+        /// Le nom du client
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         /// <remarks>Obligatoire</remarks>
         public string Nom
@@ -223,7 +286,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Prénom du client
+=======
+        /// Le prenom du client
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         /// <remarks>Obligatoire</remarks>
         public string Prenom
@@ -257,7 +324,11 @@ namespace TransactionNS
         /// <summary>
         /// Code postal du client
         /// </summary>
+<<<<<<< HEAD
         /// <value>Code postal canadien ou américain</value>
+=======
+        /// <value>Code postal canadien ou americain</value>
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// <remarks>Obligatoire</remarks>
         public string CodePostal
         {
@@ -272,7 +343,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// numero de telephone du client
+=======
+        /// Le numero de telephone du client
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public string Telephone
         {
@@ -287,7 +362,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Type d'ordinateur
+=======
+        /// Le type d'ordinateur
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public string Type
         {
@@ -302,7 +381,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Modèle d'ordinateur
+=======
+        /// Le modele d'ordinateur
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public string Modele
         {
@@ -317,9 +400,14 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Date de livraison
         /// </summary>
         /// <remarks>Obligatoire</remarks>
+=======
+        /// La date de livraison
+        /// </summary>
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         public DateTime DateLivraison
         {
             get
@@ -333,7 +421,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Marque de l'ordinateur
+=======
+        /// La marque d'ordinateurs
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public string Marque
         {
@@ -348,7 +440,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// La caractéristique de l'ordinateur
+=======
+        /// La caracteristique de l'ordinateur
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public string Caracteristique
         {
@@ -363,7 +459,11 @@ namespace TransactionNS
         }
 
         /// <summary>
+<<<<<<< HEAD
         /// Prix de l'ordinateur 
+=======
+        /// Le prix de l'ordinateur 
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         /// </summary>
         public decimal Prix
         {
@@ -378,16 +478,25 @@ namespace TransactionNS
         }
         #endregion
 
+<<<<<<< HEAD
         #region Enregistrer
+=======
+        #region Methode Enregistrer
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
         /// <summary>
         /// Enregistrer la transaction
         /// </summary>
+<<<<<<< HEAD
         /// <remarks>L'objet métier contient les données de la transaction</remarks>
+=======
+        /// <remarks>L'objet metier contient les donnees de la transaction</remarks>
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         public void Enregistrer()
         {
             Console.WriteLine("Information du client :" + Environment.NewLine +
                                "Nom: " + Nom + Environment.NewLine +
+<<<<<<< HEAD
                                "Prénom: " + Prenom + Environment.NewLine +
                                "Adresse: " + Adresse + Environment.NewLine +
                                "Code Postal: " + CodePostal + Environment.NewLine +
@@ -438,6 +547,60 @@ namespace TransactionNS
             Enregistrer();
         }
 
+=======
+                               "Prenom: " + Prenom + Environment.NewLine +
+                               "Adresse: " + Adresse + Environment.NewLine +
+                               "Code Postal: " + CodePostal + Environment.NewLine +
+                               "Telephone: " + Telephone + Environment.NewLine +
+                               "Type: " + Type + Environment.NewLine +
+                               "Modele: " + Modele + Environment.NewLine +
+                               "Date Livraison: " + DateLivraison + Environment.NewLine +
+                               "Marque: " + Marque + Environment.NewLine +
+                               "Caracteristique: " + Caracteristique + Environment.NewLine +
+                               "Prix: " + Prix.ToString("C2"));
+
+        }
+        #endregion
+
+        #region Methode enregistrer avec parametres
+
+        /// <summary>
+        /// Enregistrer la transaction avec les parametres
+        /// </summary>
+        /// <param name="nomDestinataire"></param>
+        /// <param name="prenomDestinataire"></param>
+        /// <param name="adresseDestinataire"></param>
+        /// <param name="codePostalDestinataire"></param>
+        /// <param name="telephoneDestinataire"></param>
+        /// <param name="typeDestinataire"></param>
+        /// <param name="modeleDestinataire"></param>
+        /// <param name="dateLivraisonDestinataire"></param>
+        /// <param name="marqueDestinataire"></param>
+        /// <param name="caracteristiqueDestinataire"></param>
+        /// <param name="prixDestinataire"></param>
+        /// <remarks>Le numero de transaction et la date de paiement de la facture sont calcules</remarks>
+        public void Enregistrer(string nomDestinataire, string prenomDestinataire, string adresseDestinataire,
+        string codePostalDestinataire, string telephoneDestinataire, string typeDestinataire,
+        string modeleDestinataire, DateTime dateLivraisonDestinataire, string marqueDestinataire,
+        string caracteristiqueDestinataire, decimal prixDestinataire)
+        {
+            // Enregistrer la transaction courante d'expédition dans l'objet métier						
+
+            this.Nom = nomDestinataire;
+            this.Prenom = prenomDestinataire;
+            this.Adresse = adresseDestinataire;
+            this.CodePostal = codePostalDestinataire;
+            this.Telephone = telephoneDestinataire;
+            this.Type = typeDestinataire;
+            this.Modele = modeleDestinataire;
+            this.DateLivraison = dateLivraisonDestinataire;
+            this.Marque = marqueDestinataire;
+            this.Caracteristique = caracteristiqueDestinataire;
+            this.Prix = prixDestinataire;
+
+            Enregistrer();
+        }
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         #endregion
 
     }

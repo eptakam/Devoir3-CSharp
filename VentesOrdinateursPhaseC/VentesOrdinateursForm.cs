@@ -13,7 +13,10 @@
 
         But:            Couche de présentation
                         Créer un objet métier de la classe Transaction
+<<<<<<< HEAD
                         Créer une méthode pour enregistrer une transaction
+=======
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 */
 
 using System;
@@ -148,6 +151,7 @@ namespace VentesOrdinateurs
             }
         }
 
+<<<<<<< HEAD
         #endregion 
 
         #region Méthode Enter
@@ -155,11 +159,34 @@ namespace VentesOrdinateurs
         private void InformationClientMaskedTextBox_Enter(object sender, EventArgs e)
         {
             (sender as MaskedTextBox).SelectAll(); // sélectionner le texte a chaque fois que la zone de texte recoit le focus
+=======
+        #endregion
+
+        #region Quitter
+
+        private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+
+        #endregion
+
+        #region Methode Enter
+
+        private void InformationClientMaskedTextBox_Enter(object sender, EventArgs e)
+        {
+            (sender as MaskedTextBox).SelectAll(); // selectionner le texte a chaque fois que la zone de texte recoit le focus
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
         }
 
         #endregion
 
+<<<<<<< HEAD
         #region Enregistrer
+=======
+        #region Methode Enregistrer
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
         private void Enregistrer_Click(object sender, EventArgs e)
         {
@@ -167,7 +194,11 @@ namespace VentesOrdinateurs
             {
                 this.ValidateChildren();
 
+<<<<<<< HEAD
                 // Technique 1 : Transmettre les données du Projet Principal au Projet Transaction en passant par le constructeur
+=======
+                // Technique 1 : Transmettre données Projet Principal au Projet Transaction en passant par le constructeur
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
                 oTrans = new Transaction(nomMaskedTextBox.Text,prenomMaskedTextBox.Text, adresseMaskedTextBox.Text, codePostalMaskedTextBox.Text,
                         telephoneMaskedTextBox.Text, typeComboBox.Text, modeleComboBox.Text,
@@ -176,7 +207,11 @@ namespace VentesOrdinateurs
 
                 oTrans.Enregistrer();
 
+<<<<<<< HEAD
                 // Technique 2 : Transmettre les données du Projet Principal au Projet Transaction en passant par les propriétés
+=======
+                // Technique 2 : Transmettre données Projet Principal au Projet Transaction en passant par les proprietes
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
                 oTrans = new Transaction();
 
@@ -196,7 +231,12 @@ namespace VentesOrdinateurs
                 oTrans.Enregistrer();
 
 
+<<<<<<< HEAD
                 // Technique 3 : Transmettre les données du Projet Principal au Projet Transaction en passant par Enregistrement par paramètre      
+=======
+                // Technique 3 : Transmettre données Projet Principal au Projet Transaction en passant par Enregistrement par parametre
+                //Transaction oTrans = new Transaction();
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
 
                 oTrans.Enregistrer(nomMaskedTextBox.Text, prenomMaskedTextBox.Text, adresseMaskedTextBox.Text,
                 codePostalMaskedTextBox.Text, telephoneMaskedTextBox.Text, typeComboBox.Text, modeleComboBox.Text,
@@ -210,6 +250,7 @@ namespace VentesOrdinateurs
                ex.ToString(), this.Text, MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
+<<<<<<< HEAD
 
         #endregion
 
@@ -222,5 +263,9 @@ namespace VentesOrdinateurs
 
 
         #endregion
+=======
+        #endregion
+        
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
     }
 }

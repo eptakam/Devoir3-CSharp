@@ -10,9 +10,12 @@ C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrd
 C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
 C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Types\obj\Debug\Types.dll
 C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Types\obj\Debug\Types.pdb
+<<<<<<< HEAD
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\bin\Debug\Types.dll
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\bin\Debug\Types.pdb
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\obj\Debug\Types.csproj.AssemblyReference.cache
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\obj\Debug\Types.dll
 D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseC\Types\obj\Debug\Types.pdb
+=======
+>>>>>>> b56acb8dcc5abca95d9f3a1f0ec3747b35ce27d0
