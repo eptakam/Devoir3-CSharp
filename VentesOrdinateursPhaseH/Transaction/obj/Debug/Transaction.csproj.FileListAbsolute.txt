@@ -1,0 +1,42 @@
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\bin\Debug\Transaction.dll
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\bin\Debug\Transaction.pdb
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.dll
+D:\Users\emmataks\Documents\Studies\CCNB\A2\A2_Session 1\PROG1236-Programmation_d'applications_de_donnees_multicouches_sous_NET\PROG1236-Projets\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\bin\Debug\Transaction.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\bin\Debug\Transaction.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseB\VentesOrdinateursPhaseB\Transaction\obj\Debug\Transaction.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\bin\Debug\Transaction.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\bin\Debug\Transaction.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\obj\Debug\Transaction.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseC\Transaction\obj\Debug\Transaction.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\bin\Debug\Transaction.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\bin\Debug\Transaction.pdb
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\obj\Debug\Transaction.dll
+E:\2eme annee\PROG 1236 (Programmation d'applications de donnees multicouches sous .NET)\Projets\Devoir3-CSharp\VentesOrdinateursPhaseD\Transaction\obj\Debug\Transaction.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\bin\Debug\Transaction.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\bin\Debug\Transaction.pdb
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.dll
+C:\Documents\Deuxieme Annee\Session Automne\Programmation.NET\Devoir 3\VentesOrdinateurs\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.pdb
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\bin\Debug\Transaction.dll
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\bin\Debug\Transaction.pdb
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.dll
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseE\Transaction\obj\Debug\Transaction.pdb
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\bin\Debug\Transaction.dll
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\bin\Debug\Transaction.pdb
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\obj\Debug\Transaction.dll
+C:\Users\emmat\OneDrive\Documents\C#\VentesOrdinateursPhaseH\Transaction\obj\Debug\Transaction.pdb
